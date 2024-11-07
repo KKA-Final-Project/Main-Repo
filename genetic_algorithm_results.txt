@@ -1,0 +1,4 @@
+Optimized Route:
+Cannick Tapps -> Agenda -> Balls Brothers, Mark Lane -> City Flogger -> Balls Brothers @ Minster Court -> Bedales Wine Bar -> Brokers Wine Bar -> Astronomer -> Amber Bar -> Bangers -> Circle Bar, Level 0 -> City Boot -> Balls Brothers Shoe Lane -> Bishops Finger -> Babble City -> Balls Brothers Austin Friars -> Abbey -> Balls Brothers Wine Bar -> Balls Brothers Ltd -> Bottlescrue
+Optimized Distance: 17.25 km
+Genetic Algorithm Time: 8.3679 seconds

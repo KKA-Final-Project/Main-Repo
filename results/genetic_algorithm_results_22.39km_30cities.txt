@@ -1,0 +1,4 @@
+Optimized Route:
+Amber Bar -> City Boot -> Agenda -> Balls Brothers, Mark Lane -> City Flogger -> Balls Brothers @ Minster Court -> Balls Brothers Austin Friars -> Babble City -> Corney & Barrow, Level 1, Unit 2 -> Bangers -> Corney & Barrow -> Astronomer -> City Sports Pub and Grill -> Abbey -> Balls Brothers Wine Bar -> Bedales Wine Bar -> Brokers Wine Bar -> Cannick Tapps -> Core -> City Golf & Health Clubs -> Circle Bar, Level 0 -> Club Gascon -> Corney & Barrow Wine Bar -> City of London Distillery -> Club Ten, Grange St Pauls Hotel -> Bottlescrue -> Balls Brothers Ltd -> Balls Brothers Shoe Lane -> Corney & Barrow Wine Bars -> Bishops Finger -> Amber Bar
+Optimized Distance: 22.39 km
+Genetic Algorithm Time: 11.5317 seconds

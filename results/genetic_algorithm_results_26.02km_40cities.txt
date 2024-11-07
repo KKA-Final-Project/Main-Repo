@@ -1,0 +1,4 @@
+Optimized Route:
+Corney & Barrow Wine Bar -> Bishops Finger -> Club Gascon -> Corney & Barrow Wine Bars -> Balls Brothers Shoe Lane -> Davy's -> Core -> Club Ten, Grange St Pauls Hotel -> Corney & Barrow, Unit 3, Stock Exch -> Bottlescrue -> Dirty Martini -> Balls Brothers Ltd -> City Boot -> Balls Brothers Austin Friars -> Devonshire Terrace -> Balls Brothers Wine Bar -> Dirty Dicks Public House -> Corney & Barrow -> Astronomer -> City Sports Pub and Grill -> Abbey -> Balls Brothers @ Minster Court -> Dirty Martini Monument -> Agenda -> Balls Brothers, Mark Lane -> City Flogger -> Craft Beer Co -> Brokers Wine Bar -> Bedales Wine Bar -> Babble City -> Bangers -> Amber Bar -> Corney & Barrow, Level 1, Unit 2 -> Circle Bar, Level 0 -> Crab Tavern -> City Golf & Health Clubs -> Crosse Keys PH -> Davys, 1 Plantation Place -> Cannick Tapps -> City of London Distillery -> Corney & Barrow Wine Bar
+Optimized Distance: 26.02 km
+Genetic Algorithm Time: 21.2663 seconds
